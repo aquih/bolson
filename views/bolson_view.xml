@@ -38,10 +38,10 @@
             <field name="name">bolson.bolson.tree</field>
             <field name="model">bolson.bolson</field>
             <field name="arch" type="xml">
-                <tree string="Bolson">
+                <list string="Bolson">
                     <field name="fecha"/>
                     <field name="name"/>
-                </tree>
+                </list>
             </field>
         </record>
 
