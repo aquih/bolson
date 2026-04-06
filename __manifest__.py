@@ -2,7 +2,7 @@
 
 {
     'name' : 'Bolson',
-    'version' : '2.2',
+    'version' : '2.3',
     'category': 'Custom',
     'description': """Manejo de cajas chicas y liquidaciones ( obsoleto, ya no usar )""",
     'author': 'aquíH',
