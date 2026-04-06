@@ -2,7 +2,7 @@
 
 {
     'name' : 'Bolson',
-    'version' : '2.1',
+    'version' : '2.2',
     'category': 'Custom',
     'description': """Manejo de cajas chicas y liquidaciones ( obsoleto, ya no usar )""",
     'author': 'aquíH',
@@ -15,6 +15,7 @@
         'security/ir.model.access.csv',
         'security/bolson_security.xml',
     ],
+    'license': 'Other OSI approved licence',
     'installable': True,
     'certificate': '',
 }
