@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
+
     <record id="bolson_bolson" model="ir.actions.report">
         <field name="name">Liquidación</field>
         <field name="model">bolson.bolson</field>
@@ -7,4 +8,5 @@
         <field name="report_name">bolson.reporte_bolson</field>
         <field name="report_file">bolson.reporte_bolson</field>
     </record>
+
 </odoo>
